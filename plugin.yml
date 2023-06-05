@@ -1,0 +1,7 @@
+name: AntiBot
+authors:
+  - SenseiTarzan
+  - Mathchat
+version: 1.0.0
+main: SenseiTarzan\AntiBot\Main
+api: 5.0.0
